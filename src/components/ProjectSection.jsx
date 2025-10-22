@@ -6,12 +6,12 @@ const ProjectSection = () => {
   const projects = [
     {
       id: 1,
-      title: "Bitlinks",
+      title: "BitTree",
       description: "A place to help people find you easily — one link that connects all your social handles in one place.",
       image: "/project1.png",
       tags: ["Nextjs", "Tailwind", "MongoDB"],
-      demoUrl: "https://linktree-three-sooty.vercel.app",
-      githubUrl: "https://github.com/Ansh-Kathil/linktree"
+      demoUrl: "https://bittree-kg.vercel.app/",
+      githubUrl: "https://github.com/Ansh-Kathil/Bittree"
     },
     {
       id: 2,
